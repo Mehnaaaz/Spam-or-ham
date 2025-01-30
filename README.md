@@ -58,4 +58,3 @@ These metrics help determine how well the model classifies spam and ham messages
 This project is open-source under the MIT License.
 ```
 
-Just copy and paste this into a file named **`README.md`** and you're good to go! 🚀
